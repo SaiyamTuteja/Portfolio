@@ -38,6 +38,7 @@ If you'd like to contribute to this project or report issues, please [open an is
 - Email: saiyatuteja@gmail.com 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/saiyam-tuteja/)
 - GitHub: [GitHub](https://github.com/SaiyamTuteja)
+- Portfolio: [Portfolio](https://saiyamtuteja.github.io/Portfolio/)
 
 Feel free to reach out for any inquiries or collaboration opportunities.
 
