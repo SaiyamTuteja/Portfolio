@@ -34,3 +34,15 @@ document.querySelectorAll('a').forEach(links =>{
     }
 
 });
+document.querySelectorAll('.botao').forEach(button => {
+    button.addEventListener('click', () => {
+      const textWidth = button.querySelector('.texto').offsetWidth;
+      button.style.width = `${textWidth + 50}px`;
+    });
+  });
+  function downloadFile(file) {
+    window.open(file, '_blank');
+    // Hide the "Download CV" or "Download Resume" text after clicking
+    event.target.querySelector('.texto').style.display = 'none';
+  }
+  
